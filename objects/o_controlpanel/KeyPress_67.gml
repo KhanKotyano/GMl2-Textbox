@@ -1,0 +1,1 @@
+instance_create_depth(300,300,layer_get_depth("Text"),p_scene );

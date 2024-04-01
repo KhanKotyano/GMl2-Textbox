@@ -1,0 +1,14 @@
+Working with "||":
+	p{predef number}; - Creates party color effect
+	c{predef number}; - Color function, paints you words in certain color.
+	w{predef number}; - Creates predef wave effect, basically x-y modifier. Work good on any length  
+	wl{predef number}; - Works as "w", but working good on a long distance commands
+	d{any number} - creates delay between charasters. -1, removes delay from section
+Working with "<>":
+	*<p:{predef name};> - replase it with specified string 
+	<!global:{ }:{ };> - affects global value, outside his textbox
+	
+	<!local:{ }:{ };> - affects local value, inside his text
+		<!local:delay:off/on;>
+		
+	
