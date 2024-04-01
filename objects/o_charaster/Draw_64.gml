@@ -44,7 +44,7 @@ for(var c = 0; c < floor(ultimate_c); c++){
 	_text_up_to_char += _cur_char_width;
 	_current_text_w = _text_up_to_char - _cur_char_width;
 	ultimate_w = max(ultimate_w, _total_char_w_count);
-	_x_mod = textbox.Width/2 - ultimate_w/2 - screen_border_x ;
+	_x_mod = textbox.Width/2 - ultimate_w/2 - screen_border_x     ;
 	_y_mod += WavesStorage(_new_tm, c, _charlng, _char_h)
 	
 	#endregion
@@ -58,7 +58,7 @@ for(var c = 0; c < floor(ultimate_c); c++){
 	
 	
 	draw_text_transformed_color( 
-		x + (_current_text_w) + _x_mod + screen_border_x ,
+		x + (_current_text_w) + (_x_mod* text_center) + screen_border_x ,
 		y + _y_mod + (_char_h *_line_break_mod) + screen_border_y , 
 		_char, 1, 1, 0, 
 		_tcol, _tcol, _tcol, _tcol, 1

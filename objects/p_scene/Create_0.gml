@@ -4,7 +4,7 @@ scene_functional = true;
 ivents_timeline = LINE_CREATE();
 imput_line = LINE_CREATE();
 
-language = "eng";
+language = global.language;
 path = $"{language}\\test_scene.json";
 scene_text = noone;
 background = noone;

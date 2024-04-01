@@ -1,7 +1,7 @@
 [
   {
-    "text" : "Hello *<p:alica;> and *<p:georg;>! |c4;|This is your best freind, TestText!|c4;| |p0;w0;|Test text it's the best kind of text|p0;w0;|",
-    "text1" : "<!local:delay:off;> Bla-bla-bla without a delay",
-    "text2" : "YOU |w0;d0.1;|FOOOOOOOOOOOOOOL!|w0;d0.1;|"
+    "text" : "<!local:text_center:off;> Hello *<p:alica;> and *<p:georg;>! |c4;|This is your best freind, TestText!|c4;| |p0;w0;|Test text it's the best kind of text|p0;w0;|",
+    "text1" : "<!local:text_center:on;><!local:delay:off;> Bla-bla-bla without a delay",
+    "text2" : "<!local:text_center:on;>YOU |w0;d0.1;|FOOOOOOOOOOOOOOL!|w0;d0.1;|"
   }
 ]

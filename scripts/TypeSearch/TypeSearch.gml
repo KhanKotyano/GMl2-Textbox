@@ -93,7 +93,12 @@ function TechnicalSetup(_new_text, _subtype, _a_progress){
 		_new_text.char_by_char = _result;
 		
 	}break;
-	
+	case "text_center":{
+		_a_progress++
+		var _result = _subtype[_a_progress] == "on"
+		_new_text.text_center = _result;
+		
+	}break;
 	default:{
 		_a_progress++
 		show_debug_message(_subtype[_a_progress]);

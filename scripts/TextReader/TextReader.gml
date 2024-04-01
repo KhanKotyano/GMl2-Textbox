@@ -18,7 +18,8 @@ function TextReader(_text, _textbox){
 		words : array_create(0),
 		base_font : _textbox.font,
 		line_breakpoints : array_create(0),
-		char_attach_function : array_create(0), 
+		char_attach_function : array_create(0),
+		text_center : false,
 		
 	}
 	draw_set_font(_new_text.base_font);

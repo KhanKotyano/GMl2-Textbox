@@ -2,6 +2,7 @@ global.base_delay = 0.6;
 global.defolt_delay_up = true;
 global.screen_shake = "idk";
 
+global.language = "eng";
 #macro SECOND 60
 
 #macro KEY_ACCEPT keyboard_check_pressed(vk_enter)

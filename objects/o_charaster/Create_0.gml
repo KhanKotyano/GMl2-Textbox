@@ -36,6 +36,7 @@ for(var c = 0;c < array_length(new_text.char);c++){
 	screen_border_y = new_text.screen.sep_borders_y;
 	next_line_y_sep = new_text.screen.line_y_sep;
 	main_char_line = LINE_CREATE();
+	text_center = new_text.text_center;
 	for(var c = 0;c < array_length(new_text.char);c++){
 		var _char = new_text.char[c];
 		LINE_ADD(main_char_line, _char);
