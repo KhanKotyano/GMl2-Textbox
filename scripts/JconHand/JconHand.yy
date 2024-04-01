@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "JconHand",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Скрипты",
-    "path": "folders/Скрипты.yy",
+  "$GMScript":"",
+  "%Name":"JconHand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"JconHand",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

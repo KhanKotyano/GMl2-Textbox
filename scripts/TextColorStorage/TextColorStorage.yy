@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "TextColorStorage",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Скрипты",
-    "path": "folders/Скрипты.yy",
+  "$GMScript":"",
+  "%Name":"TextColorStorage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TextColorStorage",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

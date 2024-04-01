@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "TypeSearch",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Скрипты",
-    "path": "folders/Скрипты.yy",
+  "$GMScript":"",
+  "%Name":"TypeSearch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TypeSearch",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

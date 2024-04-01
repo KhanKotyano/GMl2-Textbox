@@ -1,41 +1,41 @@
 {
-  "resourceType": "GMProject",
-  "resourceVersion": "1.7",
-  "name": "Character Templet",
-  "AudioGroups": [
-    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  "$GMProject":"",
+  "%Name":"Character Templet",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
-  "configs": {
-    "children": [],
-    "name": "Default",
+  "configs":{
+    "children":[],
+    "name":"Default",
   },
-  "defaultScriptType": 1,
-  "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Временные шкалы","folderPath":"folders/Временные шкалы.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Звуки","folderPath":"folders/Звуки.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Кривые анимации","folderPath":"folders/Кривые анимации.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Наборы плиток","folderPath":"folders/Наборы плиток.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Объекты","folderPath":"folders/Объекты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Последовательности","folderPath":"folders/Последовательности.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Примечания","folderPath":"folders/Примечания.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Пути","folderPath":"folders/Пути.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Расширения","folderPath":"folders/Расширения.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Румы","folderPath":"folders/Румы.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Скрипты","folderPath":"folders/Скрипты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Временные шкалы","folderPath":"folders/Временные шкалы.yy","name":"Временные шкалы","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Звуки","folderPath":"folders/Звуки.yy","name":"Звуки","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Кривые анимации","folderPath":"folders/Кривые анимации.yy","name":"Кривые анимации","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Наборы плиток","folderPath":"folders/Наборы плиток.yy","name":"Наборы плиток","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Объекты","folderPath":"folders/Объекты.yy","name":"Объекты","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Последовательности","folderPath":"folders/Последовательности.yy","name":"Последовательности","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Примечания","folderPath":"folders/Примечания.yy","name":"Примечания","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Пути","folderPath":"folders/Пути.yy","name":"Пути","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Расширения","folderPath":"folders/Расширения.yy","name":"Расширения","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Румы","folderPath":"folders/Румы.yy","name":"Румы","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Скрипты","folderPath":"folders/Скрипты.yy","name":"Скрипты","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Спрайты","folderPath":"folders/Спрайты.yy","name":"Спрайты","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Шейдеры","folderPath":"folders/Шейдеры.yy","name":"Шейдеры","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Шрифты","folderPath":"folders/Шрифты.yy","name":"Шрифты","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles": [
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"test_scene.json","CopyToMask":3035426170322551022,"filePath":"datafiles/eng",},
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"test_scene.json","CopyToMask":3035426170322551022,"filePath":"datafiles/eng","name":"test_scene.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
-  "isEcma": false,
-  "LibraryEmitters": [],
-  "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2023.11.1.129",
   },
-  "resources": [
+  "name":"Character Templet",
+  "resources":[
     {"id":{"name":"b_test","path":"sprites/b_test/b_test.yy",},},
     {"id":{"name":"p_scene","path":"objects/p_scene/p_scene.yy",},},
     {"id":{"name":"fnt_basic","path":"fonts/fnt_basic/fnt_basic.yy",},},
@@ -60,11 +60,13 @@
     {"id":{"name":"CameraEffects","path":"scripts/CameraEffects/CameraEffects.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
-  "RoomOrderNodes": [
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
-  "templateType": null,
-  "TextureGroups": [
-    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  "templateType":null,
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
   ],
 }

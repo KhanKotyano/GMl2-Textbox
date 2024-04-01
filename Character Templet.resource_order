@@ -1,6 +1,5 @@
 {
-  "FolderOrderSettings": [
-    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+  "FolderOrderSettings":[
     {"name":"Временные шкалы","order":8,"path":"folders/Временные шкалы.yy",},
     {"name":"Звуки","order":3,"path":"folders/Звуки.yy",},
     {"name":"Кривые анимации","order":12,"path":"folders/Кривые анимации.yy",},
@@ -15,8 +14,9 @@
     {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
     {"name":"Шейдеры","order":6,"path":"folders/Шейдеры.yy",},
     {"name":"Шрифты","order":7,"path":"folders/Шрифты.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
     {"name":"b_test","order":16,"path":"sprites/b_test/b_test.yy",},
     {"name":"p_scene","order":2,"path":"objects/p_scene/p_scene.yy",},
     {"name":"TypeSearch","order":3,"path":"scripts/TypeSearch/TypeSearch.yy",},

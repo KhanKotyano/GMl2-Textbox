@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "TextImp",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Скрипты",
-    "path": "folders/Скрипты.yy",
+  "$GMScript":"",
+  "%Name":"TextImp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TextImp",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

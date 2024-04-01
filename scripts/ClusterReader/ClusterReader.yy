@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "ClusterReader",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Скрипты",
-    "path": "folders/Скрипты.yy",
+  "$GMScript":"",
+  "%Name":"ClusterReader",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ClusterReader",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
