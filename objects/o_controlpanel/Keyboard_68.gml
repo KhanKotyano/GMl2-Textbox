@@ -1,0 +1,1 @@
+instance_destroy(p_scene);
